@@ -47,7 +47,7 @@ The Caching Proxy acts as an intermediary between clients and an origin server (
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone git@github.com:your_username/caching-proxy.git
+   git clone git@github.com:Fabien-Halaby/noxy.git
    cd caching-proxy
    ```
 2. **Initialize Go Module**:
@@ -84,7 +84,7 @@ The Caching Proxy acts as an intermediary between clients and an origin server (
    curl -v http://localhost:3000/test
    ```
    or
-   Navigate to [http://localhost:3000](#http://localhost:3000)
+   Navigate to http://localhost:3000
 2. **Verify log**:
    ```bash
    Received request: GET /test
