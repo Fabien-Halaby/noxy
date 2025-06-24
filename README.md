@@ -1,4 +1,4 @@
-# Noxy [#https://github.com/Fabien-Halaby/noxy]
+# Noxy https://github.com/Fabien-Halaby/noxy
 
 A simple HTTP caching proxy server written in Go. This project forwards HTTP requests to an origin server, caches responses in memory, and serves cached responses for subsequent requests. It includes features to clear the cache via a CLI command or an HTTP endpoint.
 
